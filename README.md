@@ -1,7 +1,7 @@
 ### My name is Gabriel Botão 👋
 #### Technology lover, always looking for new technologies
-## I'm a Mobile Developer.
-- 🔭 I’m currently working with Mobile native in Kotlin.
+## I'm a Android Software Engineer.
+- 🔭 I’m currently working with Android native in Kotlin.
 
 ### Connect with me:
 [<img align="left" alt="botaoap | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -33,7 +33,7 @@
   
   [<img alt="Status" src="https://github-readme-stats.vercel.app/api?username=botaoap&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" />][profile]
   
-  [![botaoap](https://github-readme-stats.vercel.app/api?username=botaoap)](https://github.com/botaoap/)
+  <--! [![botaoap](https://github-readme-stats.vercel.app/api?username=botaoap)](https://github.com/botaoap/) -->
   
 </details>
 
