@@ -31,10 +31,10 @@
  
   <br />
   
-  [<img alt="Status" src="https://github-readme-stats.vercel.app/api?username=botaoap&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300" />][profile]
+  [<img alt="Status" src="https://github-readme-stats.vercel.app/api?username=botaoap&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300&show_icons=true&include_all_commits=true&count_private=true" />][profile]
   
-  <--! [![botaoap](https://github-readme-stats.vercel.app/api?username=botaoap)](https://github.com/botaoap/) -->
-  
+  [![botaoap](https://github-readme-stats.vercel.app/api?username=botaoap)](https://github.com/botaoap/)
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </details>
 
 
