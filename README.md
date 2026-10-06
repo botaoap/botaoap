@@ -4,7 +4,7 @@
 - 🔭 I’m currently working with Android native in Kotlin.
 
 ### Connect with me:
-[<img align="left" alt="botaoap | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="botaoap | LinkedIn" width="22px" color="f8efd4" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br/>
 
